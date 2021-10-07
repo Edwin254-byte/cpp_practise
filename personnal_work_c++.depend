@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1632209697 source:e:\personnal items\documents\programming items\personnal_work_c++\string_manipulation.cpp
+	<iostream>
+
+1632227261 source:e:\personnal items\documents\programming items\personnal_work_c++\calculator.cpp
+	<iostream>
+	<cmath>
+
+1632227637 source:e:\personnal items\documents\programming items\personnal_work_c++\mad_libs.cpp
+	<iostream>
+
+1632228641 source:e:\personnal items\documents\programming items\personnal_work_c++\functons.cpp
+	<iostream>
+
+1632230429 source:e:\personnal items\documents\programming items\personnal_work_c++\if_statements.cpp
+	<iostream>
+
+1632231636 source:e:\personnal items\documents\programming items\personnal_work_c++\advanced_calc.cpp
+	<iostream>
+
+1632233144 source:e:\personnal items\documents\programming items\personnal_work_c++\switch_case.cpp
+	<iostream>
+
+1632303872 source:e:\personnal items\documents\programming items\personnal_work_c++\while_loops.cpp
+	<iostream>
+
+1632317007 source:e:\personnal items\documents\programming items\personnal_work_c++\arrays.cpp
+	<iostream>
+
+1632753867 source:e:\personnal items\documents\programming items\personnal_work_c++\constructor-functions.cpp
+	<iostream>
+
+1632805691 source:e:\personnal items\documents\programming items\personnal_work_c++\getters&setters.cpp
+	<iostream>
+
+1633073196 source:e:\personnal items\documents\programming items\personnal_work_c++\assignment.cpp
+	<iostream>
+
